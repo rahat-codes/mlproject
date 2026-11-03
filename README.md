@@ -1,5 +1,19 @@
 # Student Performance Prediction
 
+<div align="center">
+
+<p><strong>END-TO-END MACHINE LEARNING PROJECT</strong></p>
+
+<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge" alt="Python" />
+<img src="https://img.shields.io/badge/Scikit-learn-0F172A?style=for-the-badge" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/Flask-0F172A?style=for-the-badge" alt="Flask" />
+
+<a href="https://github.com/rahat-codes/mlproject"><img src="https://img.shields.io/github/stars/rahat-codes/mlproject?style=social" alt="GitHub stars" /></a>
+
+</div>
+
+---
+
 An end-to-end machine-learning application that predicts a student's **mathematics score** from demographic and academic input features. The project demonstrates a Python workflow spanning data ingestion, preprocessing, model comparison, artifact persistence, and a Flask-based prediction interface.
 
 > **Project status:** Educational ML application. Predictions are model estimates, not official academic assessments. The repository's current implementation and dataset should be reviewed before using the model for any consequential decision.
